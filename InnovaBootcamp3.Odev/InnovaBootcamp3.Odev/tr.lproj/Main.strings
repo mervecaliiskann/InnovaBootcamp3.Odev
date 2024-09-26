@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Add to card"; ObjectID = "3CA-cc-aeX"; */
+"3CA-cc-aeX.text" = "Sepete Ekle";
+
+/* Class = "UILabel"; text = "Qualitiy"; ObjectID = "EKa-Wc-Pom"; */
+"EKa-Wc-Pom.text" = "Kalite";
+
+/* Class = "UILabel"; text = "Chicken Hamburger"; ObjectID = "U3D-iO-Qnl"; */
+"U3D-iO-Qnl.text" = "Tavuklu Hamburger";
+
+/* Class = "UILabel"; text = "Fresh hamburger with chicken, salad, tomatoes, a little soy sauce makes a differant taste."; ObjectID = "kCM-Re-VJj"; */
+"kCM-Re-VJj.text" = "Taze tavuklu, salata, domates, tat vermesi için biraz soya sosu.";
+
+/* Class = "UILabel"; text = "$30.00"; ObjectID = "rt8-wN-oFI"; */
+"rt8-wN-oFI.text" = "900 ₺";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "sRb-EU-Sav"; */
+"sRb-EU-Sav.text" = "1";
